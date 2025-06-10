@@ -1,7 +1,7 @@
 ---
 layout: resources
 title: Resources
-description: Distributed Teams author John O'Duinn in the press.
+description: Distributed Teams resources from author John O'Duinn.
 permalink: /resources/
 
 ---
