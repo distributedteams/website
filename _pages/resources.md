@@ -7,8 +7,9 @@ permalink: /resources/
 ---
 
 Countries with Digital Nomad Visas 
-* [Digital Citizen](https://citizenremote.com/blog/digital-nomad-visa-countries/)
+* [Citizen Remote](https://citizenremote.com/blog/digital-nomad-visa-countries/) 
 * [Freaking Nomads](https://freakingnomads.com/digital-nomad-visa-countries/)
+* [Nomad Girl](https://nomadgirl.co/countries-with-digital-nomad-visas/)
 * [Planet Nomad](https://www.planet-nomad.com/en/digital-nomad-visa/)
 
 
