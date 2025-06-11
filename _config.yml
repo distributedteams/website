@@ -26,7 +26,7 @@ url: "https://distributedteamsbook.com" # the base hostname & protocol for your 
 img: cover.jpg
 titleimg: covertitle.jpg
 
-twitter_username: joduinn
+# twitter_username: joduinn
 linkedin: https://www.linkedin.com/in/joduinn/
 
 collections:
