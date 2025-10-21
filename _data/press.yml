@@ -98,7 +98,17 @@ docs:
 
 - title: "Beyond WFH: Remote Work and Socioeconomic Change"
   url: https://www.virtualnotdistant.com/podcasts/beyondwfh-socioeconomic-change
-  source: Virtual Not Distant podcast
+  source: "Virtual Not Distant" podcast with Pilar Orti
+  category: audio
+  
+- title: "Leadership and Disaster Resilience on Distributed Teams"
+  url: https://www.collaborationsuperpowers.com/278-leadership-and-disaster-resilience-on-distributed-teams/
+  source: "Head of Remote" podcast with Lisette Sutherland
+  category: audio
+  
+- title: "A Conversation with John O’Duinn"
+  url: https://rdcl.is/a-podcast-with/john-oduinn/
+  source: "Disrupt Disruption" podcast with Pascal Finette
   category: audio
   
 - title: "Exponential Organisations, Distributed Work and Socioeconomic Change"
@@ -119,6 +129,16 @@ docs:
 - title: "Welcome to the Distributed Age: How to Make Remote Work, Work"
   url: https://allwork.space/2021/02/welcome-to-the-distributed-age-how-to-make-remote-work-work/
   source: AllWork.Space
+  category: written
+  
+- title: "Managing the Invisible Worker by Sara Sutton"
+  url: https://www.entrepreneur.com/living/managing-the-invisible-worker/274702
+  source: Entrepreneur
+  category: written
+  
+- title: "Distributed Teams — the Next Big Economic Sea-Change?"
+  url: https://wtfeconomy.com/distributed-teams-the-next-big-economic-sea-change-14482d84fd75
+  source: WTF Economy
   category: written
   
 - title: "How Remote Workers Make Enterprises More Competitive"
